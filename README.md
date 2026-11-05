@@ -142,5 +142,3 @@ Synchronous-FIFO-Verilog/
 **Sanjana Adhikari**
 
 B.Tech – Electronics and Communication Engineering
-
-**Areas of Interest:** Digital Design | RTL Design | VLSI Design
